@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(76, 218, 147);
+    width: 50%;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 360px;
+}
+#inputField{
+    width:300px;
+    height: 20px;
+    vertical-align: middle;
+    font-size: 20px;
+    border: 1px solid brown;
+    outline: none;
+}
+#addToDo{
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    font-size: 15px;
+}
+.to-dos{
+    margin-top: 25px;
+}
+.paragraph-styling {
+    cursor: pointer;
+    font-size: 12px;
+    margin: 0;
+
+}
